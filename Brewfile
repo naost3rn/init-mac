@@ -1,5 +1,4 @@
 tap "homebrew/bundle"
-tap "homebrew/cask"
 brew "jq"
 brew "tmux"
 cask "airdroid"
