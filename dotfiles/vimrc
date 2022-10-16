@@ -1,0 +1,14 @@
+syn on
+set sw=4
+set tags
+
+"
+set colorcolumn=80
+set cursorline    " highlight the current line
+set number        " show line number
+set ruler         " show the cursor position all the time
+set titlec        " show filename
+
+
+" YAML
+autocmd FileType yaml setlocal ai ts=2 sw=2 et
